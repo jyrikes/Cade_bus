@@ -30,6 +30,5 @@ Contribuições
 Este projeto é de código aberto e estamos abertos a contribuições da comunidade. Caso tenha interesse em colaborar, sinta-se à vontade para criar pull requests ou reportar problemas no repositório do Cade_Bus.
 Contato
 
-Em caso de dúvidas, sugestões ou problemas com o aplicativo, você pode entrar em contato com nossa equipe de desenvolvimento pelo e-mail cade_bus@appufrpe.com ou pelos nossos perfis nas redes sociais.
-
+Em caso de dúvidas, sugestões ou problemas com o aplicativo, você pode entrar em contato com nossa equipe de desenvolvimento
 Esperamos que você aproveite o Cade_Bus e que ele facilite suas viagens diárias de transporte público!
